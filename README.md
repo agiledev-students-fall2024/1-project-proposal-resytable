@@ -1,3 +1,4 @@
-# Project Proposal
+# Resytable
 
-Delete the contents of this file and replace with your project proposal, as described in the [instructions](./instructions.md)
+## What and why?
+- Resytable is an app designed to recommend restaurants
